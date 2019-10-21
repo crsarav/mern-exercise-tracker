@@ -5,7 +5,7 @@ export default class EditExercise extends Component{
         return(
             <div> 
                 <p>
-                    You are in Edit Exercise Component!
+                    You are in Edit Exercise Component! here also 
                 </p>
 
             </div>         

@@ -5,7 +5,7 @@ export default class CreateUser extends Component{
         return(
             <div> 
                 <p>
-                    You are in Create User Component!
+                    You are in Create User Component! and added few more 
                 </p>
 
             </div>         
